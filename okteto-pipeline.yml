@@ -1,2 +1,2 @@
 deploy:
-  - kubectl apply -f https://raw.githubusercontent.com/jenkinsci/kubernetes-operator/master/deploy/all-in-one-v1alpha2.yaml
+  - kubectl apply -f allinone.yml
